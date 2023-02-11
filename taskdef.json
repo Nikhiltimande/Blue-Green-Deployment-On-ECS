@@ -37,7 +37,7 @@
       "memoryReservation": 128,
       "volumesFrom": [],
       "stopTimeout": null,
-      "image": "image <URI>",
+      "image": "732747438277.dkr.ecr.ap-northeast-1.amazonaws.com/bluegreenrepo:latest",
       "startTimeout": null,
       "firelensConfiguration": null,
       "dependsOn": null,
@@ -126,7 +126,7 @@
     "cpuArchitecture": null
   },
   "cpu": "256",
-  "revision": 12,
+  "revision": 13,
   "status": "ACTIVE",
   "inferenceAccelerators": null,
   "proxyConfiguration": null,
