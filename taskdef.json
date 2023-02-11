@@ -64,7 +64,7 @@
     "EC2",
     "FARGATE"
   ],
-  "taskDefinitionArn": "arn:aws:ecs:ap-northeast-1:732747438277:task-definition/bluegreen-taskdef:12",
+  "taskDefinitionArn": "arn:aws:ecs:ap-northeast-1:732747438277:task-definition/bluegreen-taskdef:13",
   "family": "bluegreen-taskdef",
   "requiresAttributes": [
     {
