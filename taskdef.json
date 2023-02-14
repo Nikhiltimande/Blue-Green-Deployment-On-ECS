@@ -37,7 +37,7 @@
       "memoryReservation": 128,
       "volumesFrom": [],
       "stopTimeout": null,
-      "image": "732747438277.dkr.ecr.ap-northeast-1.amazonaws.com/bluegreenrepo:latest",
+      "image": "<ImageURI>",
       "startTimeout": null,
       "firelensConfiguration": null,
       "dependsOn": null,
